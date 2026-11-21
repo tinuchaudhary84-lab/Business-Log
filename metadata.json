@@ -1,0 +1,6 @@
+{
+  "name": "Smart Complaint & Repairing Manager",
+  "description": "Offline-first Complaint & Repairing Logbook for managing customer complaints, repair jobs, spare parts, payments, receipts, and service history in English and Gujarati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
